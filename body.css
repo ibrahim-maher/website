@@ -1,0 +1,207 @@
+
+.con { width: 1100px ;margin: auto; }
+.clear { clear: both; } 
+ 
+ .slider{width: 100%;
+ 	overflow: auto;;
+ 	 background-image:url(305.jpg);
+ 		background-size: cover; 
+ 			height: 500px }
+
+		
+ .tez {background-color:#BCF2FE; overflow: hidden;}
+
+ .nav {background-color:#BCF2FE;
+ 	position:fixed;
+	margin: 5px;
+ 	 overflow: auto;
+ 	 margin: auto;
+ 	
+ 	 
+ 	}
+
+	.nav .logo { margin-left: 40px;	
+				padding-right: 4px
+				; float:left; }
+	.nav .logo img  {padding-top: 5px; width: 50px;height: 40px }
+	.nav .logo h3 { float: right;
+		font-size: 23px; 
+		color: #0F9AC8;
+		margin-top:15px;}
+
+	 
+       .nav .logo h3 span {color:#ffff}
+
+       .nav .text { float: right; }
+
+        .nav .text  ul li { color: #0F9AC8;
+        				 float: left; 
+         				font-size: 17px;
+     	      		    margin-right:20px ;
+    		      		list-style: none; 
+    		      		; position: relative;;}
+		
+		.nav .text ul li a {color:#0F9AC8; text-decoration: none; }
+		 .nav .text ul li.active a,
+		 .nav .text ul li a:hover {color:#ffd}	
+
+.nav .text .toz .tez { margin: 0;padding: 0;
+					  display: block;}
+
+
+
+.bio { overflow: hidden; }
+.contact {
+    background-color:#2B5263;
+    overflow:hidden;
+    padding-top:10px;
+    padding-bottom:20px
+}
+
+
+.contact .info {
+	width:50%;margin-right:5%}
+
+.contact h2 {color:#FFF;margin-left:40px}
+
+.contact p {color:#D1D6DA;margin-left:40px}
+
+.contact p strong {color:#ffff}
+  
+
+/* End Contact Me */
+
+/* Start Footer */
+
+.footer {
+    background-color:#2DB2D1;
+    color:#ffff;
+    padding:20px 0;
+    text-align:center;
+    overflow:hidden
+}
+
+.footer ul {
+    list-style:none;
+    padding-left:0;
+    margin:0;
+    float:right
+}
+
+.footer ul li {display:inline-block}
+
+
+
+
+
+
+.body .test1 .tota { 
+				 margin :30px;margin-right:70px }
+	.body .test1 {background-color:#F5FAFE;
+					height:560px;
+				margin-top:20px;margin-bottom:20px;
+				 overflow: hidden; }
+	.body .test1 p span { font-size:36px }
+	.body .test1 p { font-size: 27px ;
+			       text-align: justify;
+					float:left;
+					; letter-spacing: -.013em;  
+					 color: rgba(0, 0, 0, .84);
+					 line-height : 35px;
+					width: 60%;
+					margin: 40px: 	
+					}
+ 	.body .test1 .bio { margin: 20px ;
+ 						margin-top:60px}
+	.body .test1 img { float: right;
+					 padding-left: 60px: 
+						
+					width: 40% }
+
+  .body .test2 { margin:20px ;
+  				margin-top:20px;
+  				padding-top: 50px;
+
+  			 overflow: hidden; }
+
+	.body .test2 p  {margin-top:15px;
+					float: right;
+					text-align:justify; 
+					width: 40%;
+					 color: rgba(0, 0, 0, .84);
+					 line-height : 35px;
+					 letter-spacing: -.013em;
+					 font-size: 27px }
+	.body .test2 img   {float:left;
+				width: 60% ;
+				}
+
+
+.body .test2 .bio {}	
+
+.body .test2 .tota span  {font-size:36px}
+.body .test2.tota { 
+				 margin :50px;margin-right:70px }
+
+ .body .test2 .bio img { margin: px }
+
+
+.tooz {}
+.tooz{ background-color:#F5EFDA ; overflow: hidden; }
+.tooz .con .toz p  { font-size: 27px ;
+			       text-align: justify;
+					float:left;
+					; letter-spacing: -.013em;  
+					 color: rgba(0, 0, 0, .84);
+					 line-height : 35px;
+					
+					margin: 40px: 	 }
+
+.tooz .con .toz1 img {margin-right: 50px;margin-left:50px;
+	 width: 1030px ; height: 300px ;margin:30px;}
+
+
+
+	  .test3 .tota { 
+				 margin :30px;margin-right:70px }
+	 .test3 {background-color:#ffff;
+					
+				margin-top:20px;margin-bottom:20px;
+				 overflow: hidden; }
+	 .test3 p span { font-size:36px }
+	.test3 p { font-size: 27px ;
+			       text-align: justify;
+					float:left;
+					; letter-spacing: -.013em;  
+					 color: rgba(0, 0, 0, .84);
+					 line-height : 35px;
+					width: 50%;
+					margin-top: 10px; 
+					margin: 40px: 	
+					}
+ 	 .test3 .bio { margin: 20px ;
+ 				 margin-top:60px}
+	 .test3 .bio img { float: right;
+				 padding-left: 60px: 
+					margin-top:100px;	
+					width: 45% }
+
+
+
+
+.toez{ background-color:#F5FAFE ; overflow: hidden; }
+.toez .con .toz p  { font-size: 27px ;
+			       text-align: justify;
+					float:left;
+					; letter-spacing: -.013em;  
+					 color: rgba(0, 0, 0, .84);
+					 line-height : 35px;
+					
+					margin: 40px: 	 }
+
+.toez .con .toz p span { font-size: 32px }
+
+.toez .con .toz1 img {margin-right: 50px;margin-left:50px;
+	 width: 1000px 	
+	 ; height: 400px
+	  ;margin:30px;}
